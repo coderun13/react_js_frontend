@@ -1,0 +1,20 @@
+React
+js library for creating UI
+used to create user interfaces
+
+Component - function(reusable)(invoke - call)
+
+JSX (Javascript Extension Syntax)
+(way of writing html inside js code)
+
+JSX---->transfile by(Babel)---->JS
+
+
+
+
+
+
+
+
+
+
