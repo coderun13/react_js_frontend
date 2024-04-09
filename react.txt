@@ -9,12 +9,11 @@ JSX (Javascript Extension Syntax)
 
 JSX---->transfile by(Babel)---->JS
 
+npm run dev (to start the server)
 
-
-
-
-
-
+scr(source)
+assests(app.css,app.jsx,index.css,main.jsx)
+index.html(root)-->main.jsx<--app.jsx(render app)
 
 
 
