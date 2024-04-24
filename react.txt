@@ -34,3 +34,8 @@ export default Title;
 Named Export
 export { Title };
 import { Title } from "./Title.jsx";
+
+Writing Markup in JSX
+1. Return a single root element
+2. Close all the tags
+3. camelCase most of the things
