@@ -47,3 +47,7 @@ Fragments let you group a list of children without adding extra nodes to the DOM
 
 JSX with Curly Braces
 {used as pure js}
+
+Structuring Components
+breaking into small components
+eg. title component--->description component--->card component
