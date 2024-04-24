@@ -51,3 +51,6 @@ JSX with Curly Braces
 Structuring Components
 breaking into small components
 eg. title component--->description component--->card component
+
+Style Components
+different css file for different components.
