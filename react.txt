@@ -19,5 +19,11 @@ assests(app.css,app.jsx,index.css,main.jsx)
 
 index.html(root)-->main.jsx<--app.jsx(render app)
 
+Component is a reusable and independent piece of code.
+
+Rendering a component
+    Write as a html tag
+
+
 
 
