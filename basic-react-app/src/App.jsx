@@ -5,8 +5,14 @@ function Title() {
 }
 
 function App() {
-  return <h1>Hello World</h1>;
-    
+  return (
+    <div>
+    <h1>This is my app component</h1>
+    <p>inside app compoent we have: </p>
+  <Title />
+  {/* <h1>Hello World</h1> */}
+  </div>
+  );
 }
 
 export default App
