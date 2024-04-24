@@ -1,18 +1,22 @@
-React
+        React
 js library for creating UI
 used to create user interfaces
 
 Component - function(reusable)(invoke - call)
 
-JSX (Javascript Extension Syntax)
+            JSX 
+ (Javascript Extension Syntax)
 (way of writing html inside js code)
 
 JSX---->transfile by(Babel)---->JS
 
+
 npm run dev (to start the server)
 
-scr(source)
-assests(app.css,app.jsx,index.css,main.jsx)
+
+          scr(source)
+assests(app.css,app.jsx,index.css,main.jsx) 
+
 index.html(root)-->main.jsx<--app.jsx(render app)
 
 
