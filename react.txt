@@ -24,6 +24,13 @@ Component is a reusable and independent piece of code.
 Rendering a component
     Write as a html tag
 
+Import 
+import Title from "./Title.jsx";
 
+Default Export
+(to export single value from the file)
+export default Title;
 
-
+Named Export
+export { Title };
+import { Title } from "./Title.jsx";
