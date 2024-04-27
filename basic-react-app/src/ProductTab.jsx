@@ -1,7 +1,7 @@
 import Product from "./Product.jsx";
 
 function ProductTab(){
-    let features = [<li>"hi-tech"</li>,<li>"durable"</li>,<li>"fast"</li>];
+    let features = ["hi-tech","durable","fast"];
     return (
     <>
     <Product title="phone" price={30000} features={features}/>
