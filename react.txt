@@ -60,5 +60,6 @@ webpack- possible import/export in react
 React Props
 Props are the information that you pass to a JSX tag.
 
-
+Conditional
+Adding elements on the basis of some condition
 
