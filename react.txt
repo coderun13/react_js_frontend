@@ -65,3 +65,7 @@ Adding elements on the basis of some condition
 
 Events In React
 Handling Click Events
+Handling Non-Click Events
+
+Event Object
+Can access the event object in Handler
