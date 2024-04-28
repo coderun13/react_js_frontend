@@ -10,7 +10,10 @@ Component - function(reusable)(invoke - call)
 
 JSX---->transfile by(Babel)---->JS
 
-
+process to start new project
+npm install vite
+npm init
+npm install
 npm run dev (to start the server)
 
 
@@ -72,3 +75,10 @@ Can access the event object in Handler
 
 State in React
 The state is a built-inn React object that is used to contain data or information about the component.A component's state can change over time;wherever it changes,the component re-renders.
+
+Component ---> Function ---> Render
+State ---> Object ---> Change in Object ---> Re-render
+
+
+
+
