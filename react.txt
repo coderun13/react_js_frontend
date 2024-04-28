@@ -94,3 +94,6 @@ set function - update the state to a different value and trigger a re-render.
 Closure
 feature in javascript where an inner function has access to the outer(enclosing) function's variables.
 
+Callback in Updater Function
+Change in state when it depends on the current value
+new state value --> old state value --> callback
