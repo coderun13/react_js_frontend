@@ -79,6 +79,7 @@ The state is a built-inn React object that is used to contain data or informatio
 Component ---> Function ---> Render
 State ---> Object ---> Change in Object ---> Re-render
 
-
-
-
+Hooks
+A new addition in React 16.8.
+They let us use state and other React features without writing a class.
+Functions components + Hooks
