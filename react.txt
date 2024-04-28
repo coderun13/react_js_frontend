@@ -69,3 +69,6 @@ Handling Non-Click Events
 
 Event Object
 Can access the event object in Handler
+
+State in React
+The state is a built-inn React object that is used to contain data or information about the component.A component's state can change over time;wherever it changes,the component re-renders.
