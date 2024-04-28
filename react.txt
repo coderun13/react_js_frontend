@@ -91,4 +91,6 @@ returns an array with exactly two values.
 Current state - it match the initalstate passed.
 set function - update the state to a different value and trigger a re-render.
 
+Closure
+feature in javascript where an inner function has access to the outer(enclosing) function's variables.
 
