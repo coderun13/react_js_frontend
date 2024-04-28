@@ -83,3 +83,12 @@ Hooks
 A new addition in React 16.8.
 They let us use state and other React features without writing a class.
 Functions components + Hooks
+
+useState()
+It is a React Hook that lets you add a state variable to the component.
+const [state,setState] = useState(initialState);
+returns an array with exactly two values.
+Current state - it match the initalstate passed.
+set function - update the state to a different value and trigger a re-render.
+
+
